@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\rep\\src\\SmartLabel.Presentation\\wwwroot\\Uploads\\1dea2f9b-44c8-4e24-acd2-fac838891452_Alexandria Ecpc.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1dea2f9b-44c8-4e24-acd2-fac838891452_Alexandria Ecpc.jpg"
+    },
+    {
+      "Id": "D:\\rep\\src\\SmartLabel.Presentation\\wwwroot\\Uploads\\2efdb670-69e7-428f-a87f-76698ed793d8_FAV.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2efdb670-69e7-428f-a87f-76698ed793d8_FAV.jpg"
+    },
+    {
+      "Id": "D:\\rep\\src\\SmartLabel.Presentation\\wwwroot\\Uploads\\496c33c6-891b-4024-81a9-0e134278024f_vegetables.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\496c33c6-891b-4024-81a9-0e134278024f_vegetables.jpg"
+    },
+    {
+      "Id": "D:\\rep\\src\\SmartLabel.Presentation\\wwwroot\\Uploads\\c3c84a0d-1100-46f4-9e7d-ebc79fab2c42_vegetables.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c3c84a0d-1100-46f4-9e7d-ebc79fab2c42_vegetables.jpg"
+    },
+    {
+      "Id": "D:\\rep\\src\\SmartLabel.Presentation\\wwwroot\\Uploads\\de21f18d-879e-4a20-8c34-2fcd227b980b_milk.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\de21f18d-879e-4a20-8c34-2fcd227b980b_milk.jpeg"
+    },
+    {
+      "Id": "D:\\rep\\src\\SmartLabel.Presentation\\wwwroot\\Uploads\\e580517e-73b2-4e39-832a-b6a89c27e898_DatbasePhoto.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e580517e-73b2-4e39-832a-b6a89c27e898_DatbasePhoto.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SmartLabel.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SmartLabel.Presentation.props",
+      "PackagePath": "build\\SmartLabel.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SmartLabel.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\SmartLabel.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SmartLabel.Presentation.props",
+      "PackagePath": "buildTransitive\\SmartLabel.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

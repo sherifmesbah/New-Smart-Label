@@ -1,6 +1,0 @@
-@Smart_Label.Presentation_HostAddress = http://localhost:5142
-
-GET {{Smart_Label.Presentation_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
